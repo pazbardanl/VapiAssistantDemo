@@ -1,0 +1,1 @@
+Hi, and welcome. I’m an AI voice assistant built to demonstrate real-time phone automation and backend integrations. Feel free to ask about inbound calling, outbound workflows, APIs, or custom AI voice solutions.
